@@ -1,0 +1,10 @@
+C:\Users\rmenjivar\Documents\Visual Studio 2015\Projects\QRCoderTestApplication\QRCoderTestApplication\bin\Release\favicon.ico
+C:\Users\rmenjivar\Documents\Visual Studio 2015\Projects\QRCoderTestApplication\QRCoderTestApplication\bin\Release\WindowsFormsApplication2.exe.config
+C:\Users\rmenjivar\Documents\Visual Studio 2015\Projects\QRCoderTestApplication\QRCoderTestApplication\bin\Release\WindowsFormsApplication2.exe
+C:\Users\rmenjivar\Documents\Visual Studio 2015\Projects\QRCoderTestApplication\QRCoderTestApplication\bin\Release\WindowsFormsApplication2.pdb
+C:\Users\rmenjivar\Documents\Visual Studio 2015\Projects\QRCoderTestApplication\QRCoderTestApplication\bin\Release\QRCoder.dll
+C:\Users\rmenjivar\Documents\Visual Studio 2015\Projects\QRCoderTestApplication\QRCoderTestApplication\bin\Release\UnityEngine.dll
+C:\Users\rmenjivar\Documents\Visual Studio 2015\Projects\QRCoderTestApplication\QRCoderTestApplication\obj\Release\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\rmenjivar\Documents\Visual Studio 2015\Projects\QRCoderTestApplication\QRCoderTestApplication\obj\Release\QRCoderTestApplication.csproj.GenerateResource.Cache
+C:\Users\rmenjivar\Documents\Visual Studio 2015\Projects\QRCoderTestApplication\QRCoderTestApplication\obj\Release\WindowsFormsApplication2.exe
+C:\Users\rmenjivar\Documents\Visual Studio 2015\Projects\QRCoderTestApplication\QRCoderTestApplication\obj\Release\WindowsFormsApplication2.pdb
